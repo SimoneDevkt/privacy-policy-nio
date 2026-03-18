@@ -2,7 +2,7 @@
 
 Ultimo aggiornamento: 18/03/26
 
-Questa applicazione (di seguito "App") è fornita da Jessica Perego (di seguito "Titolare").
+Questa applicazione (di seguito "Nio") è fornita da Jessica Perego (di seguito "Titolare").
 
 ## 1. Tipologie di dati raccolti
 

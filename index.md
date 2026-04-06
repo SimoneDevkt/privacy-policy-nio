@@ -1,107 +1,62 @@
 # Privacy Policy
 
-Ultimo aggiornamento: 18/03/26
+Ultimo aggiornamento: 06/04/2026
 
 Questa applicazione (di seguito "Nio") è fornita da Jessica Perego (di seguito "Titolare").
 
 ## 1. Tipologie di dati raccolti
 
-L'App non raccoglie direttamente dati personali degli utenti.
+L'App non raccoglie né tratta dati personali degli utenti.
 
-Tuttavia, alcuni dati possono essere trattati da servizi di terze parti utilizzati dall'App, tra cui:
+Non vengono raccolti:
+- dati identificativi
+- dati di utilizzo
+- dati di localizzazione
+- dati sensibili
 
-- Google Play Store (per la gestione degli acquisti in-app)
-- Apple App Store (se applicabile)
+## 2. Funzionamento dell'App
+
+L'App funziona completamente in locale sul dispositivo dell’utente.
+
+Nessun dato viene trasmesso a server esterni.
+
+## 3. Servizi di terze parti
+
+L’App utilizza esclusivamente servizi di distribuzione e pagamento forniti da:
+
+- Google Play Store
 
 Questi servizi possono raccogliere dati tecnici e di pagamento secondo le proprie privacy policy.
 
-## 2. Modalità di trattamento
+Il Titolare non ha accesso a tali dati.
 
-L'App funziona principalmente in locale sul dispositivo dell'utente e non utilizza un backend proprietario.
+## 4. Finalità
 
-I dati eventualmente trattati dai servizi terzi sono gestiti direttamente da tali provider.
+Non essendo raccolti dati personali, non viene effettuato alcun trattamento da parte del Titolare.
 
-## 3. Finalità del trattamento
+## 5. Minori
 
-I dati sono trattati esclusivamente per:
-
-- consentire l'utilizzo dell'App
-- gestire gli acquisti e gli abbonamenti
-- garantire il corretto funzionamento del servizio
-
-## 4. Minori
-
-L'App può essere utilizzata da minori sotto la supervisione di un genitore o tutore.
-
-Gli acquisti e le funzionalità a pagamento sono destinati esclusivamente agli adulti.
-
-## 5. Acquisti in-app
-
-Gli acquisti sono gestiti tramite i sistemi ufficiali:
-
-- Google Play Store
-- Apple App Store (se applicabile)
-
-Il Titolare non ha accesso ai dati di pagamento degli utenti.
+L’App può essere utilizzata da minori sotto la supervisione di un adulto.
 
 ## 6. Conservazione dei dati
 
-L'App non conserva dati personali su server propri.
+Non vengono conservati dati personali su server o database.
 
-## 7. Diritti dell’utente
+## 7. Diritti dell’utente (GDPR)
 
-Gli utenti possono esercitare i propri diritti contattando il Titolare.
+Ai sensi del Regolamento (UE) 2016/679 (GDPR), l’utente ha diritto di:
 
-Per i dati gestiti da terze parti, è necessario fare riferimento alle rispettive privacy policy.
+- accesso
+- rettifica
+- cancellazione
+- limitazione del trattamento
 
-## 8. Contatti
+Tali diritti si applicano solo ai dati eventualmente trattati da terze parti.
 
-Per qualsiasi richiesta:
+## 8. Modifiche
 
-Email: nionelpianetadellemeraviglie@gmail.com
+Il Titolare si riserva il diritto di modificare la presente informativa.
 
-
-# Termini e Condizioni
-
-## 1. Utilizzo dell’App
-
-L’App è destinata a utenti e famiglie. I minori devono utilizzare l’App sotto la supervisione di un adulto.
-
-## 2. Contenuti
-
-I contenuti presenti nell’App sono forniti dal Titolare.
-
-È vietato qualsiasi uso improprio.
-
-## 3. Abbonamenti
-
-Alcune funzionalità sono disponibili tramite abbonamento.
-
-- Gli abbonamenti sono gestiti tramite Google Play Store / Apple App Store
-- Il rinnovo è automatico
-- È possibile annullare in qualsiasi momento dalle impostazioni dello store
-
-## 4. Diritto di recesso
-
-Fornendo accesso immediato a contenuti digitali, l’utente accetta di perdere il diritto di recesso ai sensi della normativa applicabile.
-
-## 5. Limitazione di responsabilità
-
-Il Titolare non è responsabile per:
-
-- uso improprio dell’App
-- interruzioni del servizio
-- problemi tecnici non dipendenti dal Titolare
-
-## 6. Sospensione del servizio
-
-Il Titolare si riserva il diritto di limitare o sospendere l’accesso in caso di uso improprio.
-
-## 7. Legge applicabile
-
-Questi termini sono regolati dalla legge italiana.
-
-## 8. Contatti
+## 9. Contatti
 
 Email: nionelpianetadellemeraviglie@gmail.com
-
